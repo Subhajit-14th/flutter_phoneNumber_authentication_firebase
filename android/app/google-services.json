@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264007474071",
+    "project_id": "phonenumberauth-cde2c",
+    "storage_bucket": "phonenumberauth-cde2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264007474071:android:2735d083e39ca9c09682d2",
+        "android_client_info": {
+          "package_name": "com.phonenumberauthenticationfirebase.appium.phonenumberauthenticationfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS8hhRKHLin6ual_fBHiDvbAFLJr8KgxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
